@@ -1,0 +1,2 @@
+pip install "jax[cpu]===0.3.20" -f https://whls.blob.core.windows.net/unstable/index.html --use-deprecated legacy-resolver
+pip install jax
